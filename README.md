@@ -6,6 +6,21 @@
 
 ---
 
+## 📸 Dashboard screenshots
+
+### Executive overview
+![Executive Overview](screenshots/AI Insights.png)
+
+### Revenue & time
+![Revenue and Time](screenshots/revenue_time.png)
+
+### Vehicles
+![Vehicles](screenshots/vehicles.png)
+
+### AI insights
+![AI Insights](screenshots/ai_insights.png)
+
+
 ## 📐 Architecture
 
 ```
