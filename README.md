@@ -23,7 +23,7 @@
 ![AI Insights](Screenshots/Customers.png)
 
 ### Payments Overview
-![AI Insights](Screenshots/AI_Paymenyts.png)
+![AI Insights](Screenshots/Payments.png)
 
 ### Drivers Overview
 ![AI Insights](Screenshots/Driver_performance_1.png)
