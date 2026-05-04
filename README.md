@@ -2,9 +2,36 @@
 
 > **dbt · Databricks Unity Catalog · Groq AI · Streamlit**
 >
-> A production-grade data engineering project built on 148,770 Uber NCR ride bookings from 2024 — covering ingestion, transformation, SCD2 history tracking, and an AI-powered analytics dashboard.
+> A production-grade data engineering project built on 148,770 Uber NCR ride bookings from 2024 — covering ingestion, transformation, analytics reporting, and an AI-powered analytics dashboard.
 
 ---
+
+## 📸 Dashboard screenshots
+
+### Executive overview
+![Executive Overview](Screenshots/Executive_Dashboard.png)
+
+### Revenue & time
+![Revenue and Time](Screenshots/Rides_Revenue_1.png)
+![Revenue and Time](Screenshots/Rides_Revenue_2.png)
+
+### Vehicles
+![Vehicles](Screenshots/Vehicles_1.png)
+![Vehicles](Screenshots/Vehicles_2.png)
+
+### Customer Overview
+![AI Insights](Screenshots/Customers.png)
+
+### Payments Overview
+![AI Insights](Screenshots/Payments.png)
+
+### Drivers Overview
+![AI Insights](Screenshots/Driver_performance_1.png)
+![AI Insights](Screenshots/Driver_performance_2.png)
+
+### AI insights
+![AI Insights](Screenshots/AI_Insights.png)
+
 
 ## 📐 Architecture
 
