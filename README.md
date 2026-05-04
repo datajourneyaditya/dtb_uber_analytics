@@ -9,16 +9,28 @@
 ## 📸 Dashboard screenshots
 
 ### Executive overview
-![Executive Overview](Screenshots/AI_Insights.png)
+![Executive Overview](Screenshots/Executive_Dashboard.png)
 
 ### Revenue & time
-![Revenue and Time](screenshots/revenue_time.png)
+![Revenue and Time](Screenshots/Rides_Revenue_1.png)
+![Revenue and Time](Screenshots/Rides_Revenue_2.png)
 
 ### Vehicles
-![Vehicles](screenshots/vehicles.png)
+![Vehicles](Screenshots/Vehicles_1.png)
+![Vehicles](Screenshots/Vehicles_2.png)
+
+### Customer Overview
+![AI Insights](Screenshots/Customers.png)
+
+### Payments Overview
+![AI Insights](Screenshots/AI_Paymenyts.png)
+
+### Drivers Overview
+![AI Insights](Screenshots/Driver_performance_1.png)
+![AI Insights](Screenshots/Driver_performance_2.png)
 
 ### AI insights
-![AI Insights](screenshots/ai_insights.png)
+![AI Insights](Screenshots/AI_Insights.png)
 
 
 ## 📐 Architecture
