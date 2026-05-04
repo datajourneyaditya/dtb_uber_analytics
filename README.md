@@ -9,7 +9,7 @@
 ## 📸 Dashboard screenshots
 
 ### Executive overview
-![Executive Overview](screenshots/AI_Insights.png)
+![Executive Overview](Screenshots/AI_Insights.png)
 
 ### Revenue & time
 ![Revenue and Time](screenshots/revenue_time.png)
